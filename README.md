@@ -2,4 +2,4 @@
 
 김다엘 학습 아카이브
 
-이걸 보면 내가 뭘 공부하는지 알 수 있다.
+* [ml-framework-study](https://github.com/Daeell/dael-study/tree/main/ml-framwork-study)
