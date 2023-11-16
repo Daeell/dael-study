@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "cff2d11d9d7d984c",
+        "id": "58a76547cd2d956a",
         "type": "tabs",
         "children": [
           {
-            "id": "bd8c870beb2be896",
+            "id": "9bbc9bafeca6db0e",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -146,21 +146,27 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "bd8c870beb2be896",
+  "active": "9bbc9bafeca6db0e",
   "lastOpenFiles": [
-    "effective-python/1주차(11.16 ~ 11.19)/imgs/Pasted image 20231116234159.png",
+    "Pasted image 20231117023513.png",
     "effective-python/1주차(11.16 ~ 11.19)/1일차.md",
+    "effective-python/imgs/Pasted image 20231116234159.png",
+    "effective-python/imgs/Pasted image 20231117020250.png",
+    "effective-python/imgs/Pasted image 20231117021015.png",
+    "effective-python/imgs/Pasted image 20231117021824.png",
+    "effective-python/imgs/Pasted image 20231117021917.png",
+    "effective-python/README.md.md",
+    "effective-python/imgs/Pasted image 20231117021057.png",
+    "effective-python/imgs/Pasted image 20231117020806.png",
+    "effective-python/imgs",
+    "Pasted image 20231117020250.png.md",
+    "Pasted image 20231117020806.png.md",
+    "effective-python/1주차(11.16 ~ 11.19)/imgs/Pasted image 20231116234159.png",
     "effective-python/1주차(11.16 ~ 11.19)/imgs",
     "effective-python/1주차(11.16 ~ 11.19)/imgs/Pasted image 20231117021015.png",
-    "effective-python/1주차(11.16 ~ 11.19)/imgs/Pasted image 20231117020806.png",
-    "effective-python/1주차(11.16 ~ 11.19)/imgs/Pasted image 20231117020250.png",
-    "effective-python/1주차(11.16 ~ 11.19)/imgs/Pasted image 20231117021917.png",
-    "effective-python/1주차(11.16 ~ 11.19)/imgs/Pasted image 20231117021824.png",
-    "effective-python/1주차(11.16 ~ 11.19)/imgs/Pasted image 20231117021057.png",
     "effective-python/1주차(11.16 ~ 11.19)/day1.py",
     "effective-python/1주차(11.16 ~ 11.19)/study_code.ipynb",
     "effective-python/1주차(11.16 ~ 11.19)",
-    "effective-python/README.md.md",
     "effective-python",
     "ml-framwork-study/README.md"
   ]
