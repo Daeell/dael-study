@@ -11,9 +11,11 @@
             "id": "dc90e52c1dcc8298",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "effective-python/1주차(11.16 ~ 11.19)/Pasted image 20231117021824.png"
+                "file": "effective-python/2주차(11.20 ~ 11.25)/2일차.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -67,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "1902f95875815d17",
@@ -83,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "effective-python/1주차(11.16 ~ 11.19)/Pasted image 20231117021824.png",
+                "file": "effective-python/2주차(11.20 ~ 11.25)/2일차.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "effective-python/1주차(11.16 ~ 11.19)/Pasted image 20231117021824.png",
+                "file": "effective-python/2주차(11.20 ~ 11.25)/2일차.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "effective-python/1주차(11.16 ~ 11.19)/Pasted image 20231117021824.png"
+                "file": "effective-python/2주차(11.20 ~ 11.25)/2일차.md"
               }
             }
           }
@@ -146,14 +149,16 @@
   },
   "active": "dc90e52c1dcc8298",
   "lastOpenFiles": [
-    "effective-python/1주차(11.16 ~ 11.19)/Pasted image 20231117021917.png",
+    "effective-python/1주차(11.16 ~ 11.19)/1일차.md",
+    "effective-python/2주차(11.20 ~ 11.25)/2일차.md",
+    "effective-python/2주차(11.20 ~ 11.25)",
+    "effective-python/README.md.md",
+    "effective-python/20231116234159.png",
+    "effective-python/1주차(11.16 ~ 11.19)/Pasted image 20231117020250.png",
     "effective-python/1주차(11.16 ~ 11.19)/Pasted image 20231117021824.png",
+    "effective-python/1주차(11.16 ~ 11.19)/Pasted image 20231117021917.png",
     "effective-python/1주차(11.16 ~ 11.19)/Pasted image 20231117021015.png",
     "effective-python/1주차(11.16 ~ 11.19)/Pasted image 20231117020806.png",
-    "effective-python/1주차(11.16 ~ 11.19)/Pasted image 20231117020250.png",
-    "effective-python/20231116234159.png",
-    "effective-python/README.md.md",
-    "effective-python/1주차(11.16 ~ 11.19)/1일차.md",
     "effective-python/1주차(11.16 ~ 11.19)/Pasted image 20231117021057.png",
     "Pasted image 20231117023513.png",
     "effective-python/imgs",
