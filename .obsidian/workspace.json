@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "effective-python/2주차(11.20 ~ 11.25)/2일차.md",
+                "file": "effective-python/2주차(11.20 ~ 11.25)/3일차.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "effective-python/2주차(11.20 ~ 11.25)/2일차.md",
+                "file": "effective-python/2주차(11.20 ~ 11.25)/3일차.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "effective-python/2주차(11.20 ~ 11.25)/2일차.md",
+                "file": "effective-python/2주차(11.20 ~ 11.25)/3일차.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "effective-python/2주차(11.20 ~ 11.25)/2일차.md"
+                "file": "effective-python/2주차(11.20 ~ 11.25)/3일차.md"
               }
             }
           }
@@ -149,8 +149,9 @@
   },
   "active": "dc90e52c1dcc8298",
   "lastOpenFiles": [
-    "effective-python/1주차(11.16 ~ 11.19)/1일차.md",
     "effective-python/2주차(11.20 ~ 11.25)/2일차.md",
+    "effective-python/2주차(11.20 ~ 11.25)/3일차.md",
+    "effective-python/1주차(11.16 ~ 11.19)/1일차.md",
     "effective-python/2주차(11.20 ~ 11.25)",
     "effective-python/README.md.md",
     "effective-python/20231116234159.png",
