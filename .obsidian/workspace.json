@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "1902f95875815d17",
@@ -149,8 +148,9 @@
   },
   "active": "dc90e52c1dcc8298",
   "lastOpenFiles": [
-    "effective-python/2주차(11.20 ~ 11.25)/2일차.md",
+    "effective-python/2주차(11.20 ~ 11.25)/4일차.md",
     "effective-python/2주차(11.20 ~ 11.25)/3일차.md",
+    "effective-python/2주차(11.20 ~ 11.25)/2일차.md",
     "effective-python/1주차(11.16 ~ 11.19)/1일차.md",
     "effective-python/2주차(11.20 ~ 11.25)",
     "effective-python/README.md.md",
